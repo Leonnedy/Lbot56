@@ -1,0 +1,9 @@
+const addsay = () => { 
+	return `
+	
+	*AÑADIR Mensaje*
+ Mensaje ¡EXITOSO GUARDADO EN LOS DATOS!
+
+Thanks !`
+}
+exports.addsay = addsay

@@ -1,0 +1,15 @@
+const cekvip = () => { 
+	return `           
+──────────────────
+*Nombre del bot* :  Leoreo 𝐵𝑂𝑇
+──────────────────
+        『 *𝐕𝐈𝐏 𝐔𝐒𝐄𝐑* 』
+──────────────────
+• *Status*    : *ACTIVO*
+────────────────── 
+*Status Bot:* *En linea*
+──────────────────
+
+*ERES MIEMBRO PREMIUM* 🐊🚩`
+}
+exports.cekvip = cekvip
